@@ -37,5 +37,6 @@ npm install
 npm run dev
 ```
 
+## Fluxo de Desenvolvimento
 
 <img src="/public/financeAI Project-financeAI Project.png">
