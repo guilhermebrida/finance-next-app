@@ -1,5 +1,6 @@
 ## Criar .env
 
+```
 ### NEON DB
 DATABASE_URL="postgresql://neondb_owner:YJf..."
 
@@ -25,14 +26,16 @@ APP_URL="http://localhost:3000"
 ### Redirecionamento Produção
 APP_URL="https://financeai-xi.vercel.app/"
 
+```
+
 ## Node Version
 v20.12.2
 
 ## Rodar Localmente
-´´´bash
+```bash
 npm install
 npm run dev
-´´´
+```
 
 
 <img src="/public/financeAI Project-financeAI Project.png">
